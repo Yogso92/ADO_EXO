@@ -1,0 +1,10 @@
+C:\Users\Student\ADO_EXO\ADO_EXO\bin\Debug\ADO_EXO.dacpac
+C:\Users\Student\ADO_EXO\ADO_EXO\bin\Debug\ADO_EXO.dll
+C:\Users\Student\ADO_EXO\ADO_EXO\bin\Debug\ADO_EXO.pdb
+C:\Users\Student\ADO_EXO\ADO_EXO\obj\Debug\ADO_EXO.sqlprojAssemblyReference.cache
+C:\Users\Student\ADO_EXO\ADO_EXO\obj\Debug\Model.xml
+C:\Users\Student\ADO_EXO\ADO_EXO\obj\Debug\refactor.xml
+C:\Users\Student\ADO_EXO\ADO_EXO\obj\Debug\postdeploy.sql
+C:\Users\Student\ADO_EXO\ADO_EXO\obj\Debug\predeploy.sql
+C:\Users\Student\ADO_EXO\ADO_EXO\obj\Debug\ADO_EXO.dll
+C:\Users\Student\ADO_EXO\ADO_EXO\obj\Debug\ADO_EXO.pdb

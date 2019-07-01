@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ADO_EXO", "ADO_EXO\ADO_EXO.sqlproj", "{24FD2CD3-5460-4273-AD1D-3539710E75FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24FD2CD3-5460-4273-AD1D-3539710E75FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FD2CD3-5460-4273-AD1D-3539710E75FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FD2CD3-5460-4273-AD1D-3539710E75FD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{24FD2CD3-5460-4273-AD1D-3539710E75FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FD2CD3-5460-4273-AD1D-3539710E75FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24FD2CD3-5460-4273-AD1D-3539710E75FD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {847DFF47-33D3-470F-BACB-CD5ED77DCB89}
+	EndGlobalSection
+EndGlobal
